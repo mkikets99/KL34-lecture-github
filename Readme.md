@@ -10,3 +10,9 @@
 ***Bold and cursive***  
 ~~Strikethrough~~
 <ins>underline</ins>
+```
+simple code here
+```
+```python
+print("Hello world")
+```
